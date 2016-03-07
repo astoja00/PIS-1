@@ -10,6 +10,7 @@ namespace GITPROJEKT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Alo svete!!!!");
         }
     }
 }
